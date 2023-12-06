@@ -34,7 +34,7 @@ Mobile design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https:/)
+- Solution URL: [Add solution URL here](https://github.com/Dunniola/Order-summary-component/tree/main/order-summary-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
