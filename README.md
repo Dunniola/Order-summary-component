@@ -34,7 +34,7 @@ Mobile design
 
 ### Links
 
-- Solution URL: [View Demo](https://github.com/Dunniola/Order-summary-component/tree/main/order-summary-component-main)
+- Solution URL: [View Demo](https://github.com/Dunniola/Order-summary-component.git)
 - Live Site URL: [Netlify App](https://https://main--order-main-summary-component.netlify.app/)
 
 ## My process
