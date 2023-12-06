@@ -34,8 +34,8 @@ Mobile design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dunniola/Order-summary-component/tree/main/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Demo](https://github.com/Dunniola/Order-summary-component/tree/main/order-summary-component-main)
+- Live Site URL: [Netlify App](https://https://main--order-main-summary-component.netlify.app/)
 
 ## My process
 
@@ -49,6 +49,6 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://main--order-main-summary-component.netlify.app/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
