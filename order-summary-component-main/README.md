@@ -22,16 +22,19 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![Active state](./design/active-states.jpg)
+Active state
+![](./design/active-states.jpg)
+Desktop preview
 ![Desktop design](./design/desktop-design.jpg)
+Desktop design
 ![Desktop preview](./design/desktop-preview.jpg)
+Mobile design
 ![Mobile design](./design/mobile-design.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https:/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
